@@ -1,4 +1,4 @@
-#### lysassesstt
+#### lasassesstt
 #####Working with sassscript
 ######Looping 
 ```
